@@ -1,0 +1,6 @@
+@TestGitHubActionCICD_HostAddress = http://localhost:5281
+
+GET {{TestGitHubActionCICD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
